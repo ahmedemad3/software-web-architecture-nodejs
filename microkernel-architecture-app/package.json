@@ -1,0 +1,16 @@
+{
+  "name": "eclipse-microkernel",
+  "version": "1.0.0",
+  "description": "A simulation of the Eclipse IDE microkernel architecture in Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
+  }
+}
+

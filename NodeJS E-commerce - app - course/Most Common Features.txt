@@ -1,0 +1,17 @@
+Product catalog: A product catalog is a collection of all the products that a store has available for purchase. It is usually organized by category and includes product details such as price, description, and images.
+
+Shopping cart: A shopping cart is a virtual container where customers can add products they want to purchase. It allows customers to easily keep track of the products they want to buy and see the total cost before checkout.
+
+Checkout: The checkout process is where customers complete their purchases. It typically includes entering shipping and billing information, choosing a payment method, and reviewing the order before finalizing it.
+
+Payment processing: Payment processing involves securely processing customer payments for their orders. It typically involves integrating with a third-party payment gateway, such as PayPal or Stripe, to securely process credit card payments.
+
+Order management: Order management involves managing customer orders from start to finish. It includes tasks such as tracking inventory levels, processing payments, and shipping orders to customers.
+
+User account management: User account management allows customers to create and manage their own accounts. This includes tasks such as creating a profile, managing order history, and updating account information.
+
+Search functionality: Search functionality allows customers to quickly and easily find the products they are looking for. It typically includes a search bar and advanced search filters such as product category, price range, and product attributes.
+
+Reviews and ratings: Reviews and ratings allow customers to provide feedback on the products they have purchased. This can help other customers make informed purchasing decisions and can also provide valuable insights for the store owner.
+
+Wishlist: A wishlist allows customers to save products they are interested in but not ready to purchase. This can be a helpful feature for customers who want to save products for later or for those who are shopping for gift ideas.

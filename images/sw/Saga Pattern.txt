@@ -1,0 +1,14 @@
+Choreography-based Saga:
+
+Consistency: In a choreography-based saga, the consistency is weak because there is no central coordinator to ensure that all participants have updated their state correctly.
+Complexity: The complexity is low because each participant only needs to be aware of its own state and the state of the other participants it interacts with.
+Scalability: The scalability is high because each participant can execute its actions independently of the other participants, making it easier to scale the system horizontally.
+Fault Tolerance: The fault tolerance is high because there is no single point of failure, and the failure of any participant can be recovered by the other participants.
+Real-World Example: An online marketplace where a buyer, seller, and payment processor collaborate to complete a transaction. The buyer places an order, the seller ships the product, and the payment processor handles the payment. If any of these steps fail, the transaction is rolled back.
+Orchestration-based Saga:
+
+Consistency: In an orchestration-based saga, the consistency is strong because there is a central coordinator that ensures that all participants have updated their state correctly.
+Complexity: The complexity is high because the coordinator needs to be aware of the state of all the participants and ensure that each step is executed correctly.
+Scalability: The scalability is low because the system depends on the performance of the coordinator. As the number of participants increases, the load on the coordinator also increases, making it harder to scale the system horizontally.
+Fault Tolerance: The fault tolerance is low because the coordinator is a single point of failure. If the coordinator fails, the entire transaction fails.
+Real-World Example: An e-commerce checkout process where a customer adds items to their cart, enters their shipping and billing information, and submits the order. The checkout system coordinates with the inventory, payment processing, and shipping systems to ensure that the order is processed correctly. If any of these steps fail, the transaction is rolled back.

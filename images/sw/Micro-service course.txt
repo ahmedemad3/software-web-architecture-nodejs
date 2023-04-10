@@ -1,0 +1,127 @@
+Module 1: Introduction to Microservices
+Overview of Microservices architecture
+Definition and characteristics of Microservices
+Benefits of Microservices
+Challenges of Microservices
+Monolithic vs Microservices architecture
+Comparison of Monolithic and Microservices architecture
+Advantages and disadvantages of each
+Key principles of Microservices
+Loose coupling
+Independent deployment
+Scalability
+Resiliency
+Composability
+Microservices and DevOps
+Overview of DevOps
+Benefits of combining Microservices and DevOps
+Best practices for Microservices development with DevOps
+
+Module 2: Building Microservices with Node.js
+Overview of Node.js and its benefits for Microservices development
+Introduction to Node.js
+Advantages of Node.js for Microservices development
+Setting up a Node.js development environment
+Installing Node.js and NPM
+Setting up a development environment with a code editor
+Creating a basic Node.js application
+Writing and running a basic Node.js program
+Understanding the Node.js module system
+Understanding the Node.js event loop
+Overview of the event loop
+Asynchronous programming with Node.js
+Implementing a RESTful API with Node.js
+Overview of RESTful APIs
+Building a RESTful API with Node.js and Express
+Using Node.js modules for Microservices development
+Overview of Node.js modules
+Finding and installing Node.js modules
+Creating and publishing Node.js modules
+
+Module 3: Microservices Communication with Node.js
+Introduction to Microservices communication
+Overview of Microservices communication patterns
+Benefits of Microservices communication
+Synchronous vs asynchronous communication
+Comparison of synchronous and asynchronous communication
+Advantages and disadvantages of each
+Implementing Microservices communication with Node.js
+Overview of Microservices communication with Node.js
+Building a Microservices application with Node.js and RabbitMQ
+Using RabbitMQ for asynchronous communication
+Introduction to RabbitMQ
+Implementing asynchronous communication with RabbitMQ
+Using gRPC for synchronous communication
+Overview of gRPC
+Building a synchronous Microservices application with gRPC
+
+Module 4: Containerization with Docker
+Introduction to Docker and containerization
+Overview of containerization
+Introduction to Docker
+Creating Docker containers for Node.js applications
+Writing a Dockerfile for a Node.js application
+Building and running Docker containers
+Container orchestration with Kubernetes
+Overview of Kubernetes
+Deploying and managing Node.js Microservices on Kubernetes
+Deploying Node.js Microservices on Kubernetes
+Creating a Kubernetes deployment for a Node.js Microservice
+Exposing and scaling a Microservice with Kubernetes
+
+Module 5: Testing and Debugging Node.js Microservices
+Overview of testing Microservices
+Importance of testing Microservices
+Types of tests for Microservices
+Unit testing with Mocha and Chai
+Overview of Mocha and Chai
+Writing unit tests for Node.js Microservices
+Integration testing with Supertest
+Overview of Supertest
+Writing integration tests for Node.js Microservices
+Debugging Node.js Microservices with VSCode
+Introduction to VSCode debugging tools
+Debugging Node.js Microservices with VSCode
+
+Module 6: Monitoring and Scaling Node.js Microservices
+Overview of monitoring Microservices
+Importance of monitoring Microservices
+Implementing monitoring with Prometheus and Grafana
+Overview of Prometheus and Grafana
+Setting up Prometheus and Grafana for Microservices monitoring
+Scaling Microservices with Kubernetes
+Overview of scaling Microservices
+Scaling Microservices with Kubernetes horizontal pod autoscaling
+Implementing a circuit breaker pattern for resiliency
+Overview of circuit breaker pattern
+Implementing circuit breaker pattern with Node.js and Hystrix
+
+Module 7: Security and Authentication in Microservices
+Overview of Microservices security
+Importance of Microservices security
+Common security threats in Microservices
+Implementing authentication with JWT
+Overview of JWT
+Implementing JWT authentication in Node.js Microservices
+Securing Microservices with HTTPS
+Introduction to HTTPS
+Setting up HTTPS for Node.js Microservices
+Implementing rate limiting and CORS for Microservices
+Overview of rate limiting and CORS
+Implementing rate limiting and CORS with Node.js
+
+Module 8: Deployment and Continuous Delivery
+Overview of deployment and continuous delivery
+Introduction to deployment and continuous delivery
+Benefits of deployment and continuous delivery
+Deploying Node.js Microservices to the cloud
+Overview of cloud deployment options for Microservices
+Deploying Node.js Microservices to AWS Elastic Beanstalk
+Setting up a continuous delivery pipeline with Jenkins
+Overview of Jenkins
+Setting up a continuous delivery pipeline for Node.js Microservices with Jenkins
+Best practices for Microservices deployment and continuous delivery
+Microservices deployment best practices
+Continuous delivery best practices
+
+

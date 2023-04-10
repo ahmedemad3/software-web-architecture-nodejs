@@ -1,0 +1,1 @@
+project folder structure for the monolithic modular Product Catalog Service + Shopping Cart Service	+ Order Management Service + Payment Service	+ User Authentication Service in nodejs aoo
